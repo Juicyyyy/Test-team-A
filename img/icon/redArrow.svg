@@ -1,0 +1,8 @@
+<svg width="186" height="209" viewBox="0 0 186 209" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M4 7L4.00001 183" stroke="#AB1832" stroke-width="2"/>
+<path d="M180 209L185.774 199L174.226 199L180 209ZM179 181L179 200L181 200L181 181L179 181Z" fill="#AB1832"/>
+<path d="M180 181L4 181" stroke="#AB1832" stroke-width="2"/>
+<circle cx="4" cy="4" r="3.5" transform="matrix(-1 0 0 1 8 0)" fill="#AB1832" stroke="#AB1832"/>
+<circle cx="4" cy="4" r="3.5" transform="matrix(-1 0 0 1 8 178)" fill="#AB1832" stroke="#AB1832"/>
+<circle cx="4" cy="4" r="3.5" transform="matrix(-1 0 0 1 184 178)" fill="#AB1832" stroke="#AB1832"/>
+</svg>
